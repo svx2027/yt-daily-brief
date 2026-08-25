@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-08-25](briefs/2026-08-25.md) — Matthew Berman broke format with a rare 44-min OpenAI guest interview (~38.9x norm) riding pure guest credibility; IBM Technology's evergreen "how agents understand your codebase" explainer hit ~40.9x with no news hook; Theo's curiosity-titled "He's right." rode a live Boris Cherny Twitter debate to ~19x.
 - [2026-08-24](briefs/2026-08-24.md) — A rare three-channel data day: The PrimeTime's live DHH interview broke an $8M Omarchy funding announcement (~4.8x norm), IBM Technology's short SQL-vs-vector-database explainer hit ~7.8x, and AICodeKing's contrarian take on an under-hyped Gemini 3.7 Flash release hit ~33.3x.
 - [2026-08-23](briefs/2026-08-23.md) — Another thin data day (four of six watchlist channels had nothing new), but Theo's rare tier-list video ranking every current model broke out ~7.8x his norm, and AICodeKing's same-day coverage of a 50K-spot, 2.5-day free-token promo hit ~19.5x his baseline.
 - [2026-08-22](briefs/2026-08-22.md) — A thin data day (four of six watchlist channels had nothing new to report), but AICodeKing's same-day stealth-model review ("Ox Alpha") broke out ~43x its norm, and IBM Technology's usually-weak news-roundup podcast beat its own format baseline ~3.9x covering Stripe's reported $7B+ OpenRouter acquisition.
