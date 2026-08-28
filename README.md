@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-08-28](briefs/2026-08-28.md) — Fireship's "The most expensive software bug in history..." ran ~51,766 VPH, ~58x its own recent ceiling; Theo's "Ox Alpha is INSANE" carried the sample's highest breakoutScore (3.29), a same-tool follow-up to AICodeKing's Aug 25 review; IBM Technology posted its second high-velocity "hype vs. reality" explainer in three days.
 - [2026-08-27](briefs/2026-08-27.md) — The PrimeTime's off-format, self-help-titled "Protecting Your Energy" hit ~8,305 VPH, the highest velocity logged in this series; Matthew Berman's reused "Most Important X Right Now" title ran ~3,348 VPH; IBM Technology's usually-weak weekly roundup format hit its best VPH yet (~156) bundling three linked stories.
 - [2026-08-26](briefs/2026-08-26.md) — Theo's terse, inverted-advice "Turn off Claude Code's Memory" ran ~8-10x his own recent VPH; Matthew Berman's rare 44-min guest interview broke his usual solo-explainer format; IBM Technology's evergreen either/or explainer hit a 2.12x breakout with no news hook.
 - [2026-08-25](briefs/2026-08-25.md) — Matthew Berman broke format with a rare 44-min OpenAI guest interview (~38.9x norm) riding pure guest credibility; IBM Technology's evergreen "how agents understand your codebase" explainer hit ~40.9x with no news hook; Theo's curiosity-titled "He's right." rode a live Boris Cherny Twitter debate to ~19x.
