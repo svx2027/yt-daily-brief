@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-09-06](briefs/2026-09-06.md) — With five of six watchlist channels quiet since Sept 4, a broader outlier scan found the GPT-6 Astra story spilling past standard review formats: a 5.5K-subscriber channel (Max Blade) hit breakoutScore 39 with a gaming-style "build whatever I imagine" video, while AICodeKing's Astra-vs-Fable 5.1 comparison was the only fresh watchlist upload.
 - [2026-09-05](briefs/2026-09-05.md) — Five of six watchlist channels covered OpenAI's GPT-6 "Astra" release within the same 24 hours; Fireship's "Did OpenAI actually build AGI? GPT-6 Astra first look" set a new series-best ~98,422 VPH, and Theo's terse "It's Here." also hit a personal series-best at ~11,498 VPH.
 - [2026-09-04](briefs/2026-09-04.md) — Five of six watchlist channels posted same-day on two news pegs (a Cloudflare incident and a wave of model releases); The PrimeTime's "Cloudflare Cooked" hit a channel-best ~30,032 VPH, Matthew Berman's "ASTRA IS HERE (GPT-6 RELEASED)" more than doubled his prior series-best at ~19,748 VPH, and Theo broke format with a 55-minute "My New Favorite Model" deep-dive at ~6,742 VPH.
 - [2026-09-03](briefs/2026-09-03.md) — Fireship's "The most interesting hack in history just got weirder..." hit ~68,404 VPH, the second-highest velocity logged in this series, one day after the channel's own record; AICodeKing's same-day Fable 5.1 review ran ~882 VPH at nearly double its usual runtime; IBM Technology's bundled two-story roundup hit ~595 VPH.
