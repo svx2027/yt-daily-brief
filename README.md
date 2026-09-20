@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-09-20](briefs/2026-09-20.md) — The thinnest data day in this series' recent window: only AICodeKing posted fresh, its "SILENTLY dropped" Claude Code 3.0 hook running ~512 VPH but a breakoutScore (1.03) still at the channel's own baseline; a supplementary outlier scan surfaced nothing new to report.
 - [2026-09-19](briefs/2026-09-19.md) — Matthew Berman broke a 3-day silence with "We need to talk about Jev...", naming a subject his usual vague-title template normally hides, one day after AICodeKing first reviewed the same tool — the day's highest velocity by far (~13,889 VPH, confirmed 2.04 breakout).
 - [2026-09-18](briefs/2026-09-18.md) — Five of six watchlist channels posted fresh uploads; Fireship's "Did Google just kickstart the intelligence explosion?" set a new series-best ~53,785 VPH at just ~7.6 hours old, The PrimeTime's subject-withholding "The Date Hack" ran second-highest (~14,351 VPH), and IBM Technology (MLflow explainer, 1.53) and AICodeKing (Jev agent review, 1.94) logged the day's only confirmed breakouts.
 - [2026-09-17](briefs/2026-09-17.md) — A quiet watchlist day (only IBM Technology and AICodeKing posted fresh uploads) sent the day's real signal outside the fixed six channels: a supplementary outlier scan found Kantan Coding, a small irregular-posting channel, hitting a confirmed 2.12 breakout (~6,554 VPH) reusing its own "3 Laws/Pillars of X" title template on a contrarian AI-code-skepticism angle.
