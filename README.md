@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-09-21](briefs/2026-09-21.md) — Theo, IBM Technology, and AICodeKing all posted fresh uploads that independently converge on the same tool, "Jev," already covered separately by AICodeKing and Matthew Berman days earlier; Theo's "Jev is incredible" hit ~7,881 VPH, the second-highest velocity logged for his channel this series, while IBM Technology's "Super Agents" explainer logged the day's only confirmed breakout (1.72).
 - [2026-09-20](briefs/2026-09-20.md) — The thinnest data day in this series' recent window: only AICodeKing posted fresh, its "SILENTLY dropped" Claude Code 3.0 hook running ~512 VPH but a breakoutScore (1.03) still at the channel's own baseline; a supplementary outlier scan surfaced nothing new to report.
 - [2026-09-19](briefs/2026-09-19.md) — Matthew Berman broke a 3-day silence with "We need to talk about Jev...", naming a subject his usual vague-title template normally hides, one day after AICodeKing first reviewed the same tool — the day's highest velocity by far (~13,889 VPH, confirmed 2.04 breakout).
 - [2026-09-18](briefs/2026-09-18.md) — Five of six watchlist channels posted fresh uploads; Fireship's "Did Google just kickstart the intelligence explosion?" set a new series-best ~53,785 VPH at just ~7.6 hours old, The PrimeTime's subject-withholding "The Date Hack" ran second-highest (~14,351 VPH), and IBM Technology (MLflow explainer, 1.53) and AICodeKing (Jev agent review, 1.94) logged the day's only confirmed breakouts.
