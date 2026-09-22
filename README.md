@@ -8,6 +8,7 @@ Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx20
 
 ## Briefs
 
+- [2026-09-22](briefs/2026-09-22.md) — Fireship became the fourth watchlist channel to independently cover "Jev" (after AICodeKing, Matthew Berman, and Theo), running near its own series-best velocity (~102,334 VPH) with a mechanism-explainer angle instead of another hands-on review; IBM Technology's "Goodbye Tokenmaxxing" logged the day's only confirmed breakout (1.54) with no news hook.
 - [2026-09-21](briefs/2026-09-21.md) — Theo, IBM Technology, and AICodeKing all posted fresh uploads that independently converge on the same tool, "Jev," already covered separately by AICodeKing and Matthew Berman days earlier; Theo's "Jev is incredible" hit ~7,881 VPH, the second-highest velocity logged for his channel this series, while IBM Technology's "Super Agents" explainer logged the day's only confirmed breakout (1.72).
 - [2026-09-20](briefs/2026-09-20.md) — The thinnest data day in this series' recent window: only AICodeKing posted fresh, its "SILENTLY dropped" Claude Code 3.0 hook running ~512 VPH but a breakoutScore (1.03) still at the channel's own baseline; a supplementary outlier scan surfaced nothing new to report.
 - [2026-09-19](briefs/2026-09-19.md) — Matthew Berman broke a 3-day silence with "We need to talk about Jev...", naming a subject his usual vague-title template normally hides, one day after AICodeKing first reviewed the same tool — the day's highest velocity by far (~13,889 VPH, confirmed 2.04 breakout).
