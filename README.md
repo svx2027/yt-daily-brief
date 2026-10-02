@@ -6,6 +6,23 @@ Automated daily brief on what is moving in tech and AI YouTube: a scheduled agen
 
 Roadmap: see the profile README at [github.com/svx2027](https://github.com/svx2027).
 
+## Brief template
+
+Every edition's **Top overperformers** table carries these columns, in order:
+
+| Column | What it is |
+|---|---|
+| Title | the video's title, as published |
+| Channel | the watchlist channel, or the off-watchlist channel if it came from the supplementary outlier scan |
+| Published | upload timestamp, UTC |
+| Views (snapshot) | the view count at the moment this edition's data was pulled — a single point-in-time read, never a final total |
+| Outlier multiple | this video's snapshot VPH divided by that channel's own trailing baseline VPH (the median VPH of its last 10 tracked uploads in this series, excluding the video itself), shown as `~Nx baseline`. Needs at least 3 prior tracked uploads for that channel; reported as `insufficient baseline` otherwise, never guessed |
+| Overperformance signal | vidIQ's own `breakoutScore`, taken as-is (not independently recalculated), plus the raw VPH reading |
+
+Why a dedicated multiple column: `breakoutScore` and raw VPH are useful but not comparable across channels on their own — a small channel's modest view count can be a much bigger outlier relative to its own history than a mega-channel's larger one, and raw VPH on a very fresh upload reads inflated regardless of channel size (every edition's methodology note already flags this). Editions from July-August made this same channel-relative comparison informally in prose ("~62x its norm", "~8.3x her norm" — see the [2026-08-17](briefs/2026-08-17.md), [2026-08-21](briefs/2026-08-21.md) entries below); editions from September onward dropped that framing for the raw `breakoutScore`/VPH pair alone. This column restores the channel-relative read as an explicit, consistently-computed field instead of free prose, alongside `breakoutScore` rather than in place of it, so a reader can compare rows without re-deriving the multiple from paragraph text themselves.
+
+Added 2026-10-02; applies starting with the next edition.
+
 ## Briefs
 
 - [2026-10-02](briefs/2026-10-02.md) — Four of six watchlist channels posted fresh (Theo, IBM Technology, AICodeKing, Fireship); for the first time in this series three separate sub-24-hour uploads all carried a confirmed breakoutScore in the same run (IBM's "What Is Jev?" 2.23, AICodeKing's Gemini 4 Argon 2.18, Fireship's newest upload 1.16), while Fireship's own upload also logged the day's highest raw velocity (~75,038 VPH); two long-tracked videos are now stuck null past 111-115 hours, and The PrimeTime's prior-day breakout oscillated a second time (1.21 → null → 0.66).
